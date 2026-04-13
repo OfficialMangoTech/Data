@@ -1,3 +1,749 @@
 {
-  "data": []
+  "category": [
+    "Airports",
+    "Beaches",
+    "Art Gallery",
+    "Highest Peaks",
+    "Parks",
+    "Shopping Malls",
+    "Tourist Attractions",
+    "Underwater Museum"
+  ],
+  "data": [
+    {
+      "Category": "Airports",
+      "Place_Name": "Agadir Al Massira Airport ",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1jS03YbKkRvFA-J5qr3SYxJmoJxwK6Srs",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1LW5oTtPxX0xeZG8IDoJOA4br6WgDi_B_",
+      "Description": "Agadir Al Massira Airport (AGA) is an international airport 20 km from Agadir, Morocco, serving domestic and international flights with modern facilities."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Istanbul Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=11ghmZGhL1K8BJQVr3IKbJqUMUXxUbEAs",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1T42VxCAEkey1wLU59-HC_gCvNyFwN0Hv",
+      "Description": "Istanbul Airport (IST) is Turkey’s largest hub, offering global flights with modern facilities and transport links."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Athens Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1KZ-2f7sOCu3IZSBW2_YPkzlfjQFJlXOj",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1qk8s-LFS5iGUsvo1oR22DWTYYxStrawZ",
+      "Description": "Athens Airport (ATH) is Greece’s main hub, offering global flights with modern facilities and easy access."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Canberra Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1LMWVb3nFsv-jvA896T7N9DInsE6tJh0u",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1uiqYSPFLdzT88VcBXWmBGtzISxPBtgub",
+      "Description": "Canberra Airport (CBR) is Australia's capital airport, offering domestic flights with modern facilities and access."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Dublin Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=17Gn8lGbw5g_i3neVDs-91JPuIkFQDIds",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1WgV3auKy6hjevQnPyygjtbE3KMXbj_mv",
+      "Description": "Dublin Airport (DUB) is Ireland’s busiest international airport, providing global connections, modern facilities, and convenient transport links to the city."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Gatwick Airport West Sussex",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=13RMTxT35JUbGuaW1ZzuuBMjmihBZ9YRE",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1YBR65qJ94ljkrl3CVdPDKFJXdmHmye9Q",
+      "Description": "Gatwick Airport (LGW) in West Sussex is the UK’s second busiest airport, offering global flights, modern facilities, and easy transport access."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Gimpo International Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1j2dwH3hImIyO0Br8UddtII9expqHYZfD",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1LOHgUqInqFKNpui0VHBiAxyjVPUZ8xrI",
+      "Description": "Gimpo International Airport (GMP) in Seoul offers domestic and regional flights with modern facilities and fast city access."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Hammad International Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=11GRUxsWEflqYvOeuN3J0LX4bONuZ-1yU",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1dgw0x5pvitv8kh4BQEqKLGdJnKal36Rg",
+      "Description": "Hamad International Airport (DOH) in Doha is a world-class hub, offering luxury services, modern facilities, and global connections."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Juanda International Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1ZKFmePNpOfN-7TBNpianqzLt_zOn2fgl",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1YXOCqOKfZQeNmTImyMitQoYTnxdeMe86",
+      "Description": "Juanda International Airport (SUB) in Surabaya is a key Indonesian hub, offering modern facilities and smooth global connections."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Madrid Barajas Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=15DClkC_Ivqj9zwXuemk7WXMsXU1PsJVw",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1MGpJOxX1SvwHwRDLjKzkoqCLI0hQmb_H",
+      "Description": "Madrid Barajas Airport (MAD) is Spain’s busiest hub, offering global connections, modern facilities, and fast city access."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "New Chitos Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1utwHoBpyBH-hgaFmBzcqqjHITlodnv3i",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=19OXla-jU2oV8Ut_-ir5L3zGMsbe3y7FP",
+      "Description": "New Chitose Airport (CTS) in Hokkaido is Japan’s busiest regional hub, offering global flights, modern facilities, and easy city access."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Tiepei Songshan Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1Bzw8O_j2c0nYgJIKMpBrDHzjxhqTfm7w",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1GQRrnRtBAZeg7EgjvJVVmD4Em9FcuwKB",
+      "Description": "Taipei Songshan Airport (TSA) is a convenient city airport in Taiwan, offering regional flights, modern facilities, and fast access to downtown."
+    },
+    {
+      "Category": "Airports",
+      "Place_Name": "Wroclaw Copernicus Airport",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1UT4mN7MizlKNuYvNP_4hBxBGFb9ISPU0",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1IR1DG3_H9cpfwRYwtnOtyEtm7fzgRaoA",
+      "Description": "Wrocław Copernicus Airport (WRO) is a modern Polish hub, offering regional and international flights with easy city access and great facilities."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Anse Source Dargent",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1h_wzI8A09pvEbawv8_1fvO8qAI00XYPP",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1IQCZDEhA_jQRWzAdE5TlldH2RgLIKauU",
+      "Description": "Anse Source D’Argent in Seychelles is a dreamy paradise with crystal-clear waters, soft white sand, and iconic granite boulders, making it one of the world’s most photographed beaches."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Bondi Beach",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=19iu67nFWcRWt3tIHrJCzOVXdheb-69l4",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1PMds39gEXjRchLeSLT-cdyM-lWe5hoIQ",
+      "Description": "Bondi Beach in Sydney is a world-famous surf haven, offering golden sand, rolling waves, a vibrant boardwalk, and breathtaking coastal views, attracting visitors from around the globe."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Boulders Beach",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1kpGIxw2q4cBUamBcuVsQ58BlCjJ0ZkBu",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1QbdAbq6BMYTXz0m5g13TS6PX9DrYiwre",
+      "Description": "Boulders Beach in South Africa is a unique coastal gem where visitors can relax on soft sands, swim in clear waters, and observe adorable African penguins in their natural habitat."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Champagne Beach",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1tRw_2qQ7bJmIy0e4rjBPsMgur-FAAObQ",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=12Nq9rJzDkmYcx1j1-m63ud271ObeCV4-",
+      "Description": "Champagne Beach in Vanuatu is a hidden paradise known for its powdery white sand, turquoise waters, and a magical fizzing effect in the water, resembling champagne bubbles."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Copacabana Beach",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=138rt3OPI1QFe3kfi_ons09Ry48QTmhvM",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1BWP-tBSreJ92T5AXgR7fO5lxNvO_ZSN8",
+      "Description": "Copacabana Beach in Rio de Janeiro is Brazil’s most iconic stretch of golden sand, featuring lively beach bars, samba rhythms, and stunning views of Sugarloaf Mountain."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Directors Bay",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1dJVL0N8oTlC4VmngtwoBUaGsGFPLKiHQ",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1Lp0nm-Af2t14x1SPBheG4hVVhOIDn8fF",
+      "Description": "Directors Bay in Curaçao is a secluded retreat with crystal-clear waters, vibrant marine life, and historic WWII bunkers, offering perfect conditions for snorkeling and exploration."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Family Beach Guam",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1lNYyiisM0hH1I2_cD0uZ06h36AUK2SNr",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1GiHt8RFiW_LMs5ZAYWotJEEIWPv9NofE",
+      "Description": "Family Beach in Guam is a serene escape with soft white sand, calm waters, and breathtaking sunsets, making it the ideal spot for relaxation with family and friends."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Half Moon Island",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1xGsl3zBoNdUJSWb9Li55MIzaniNtu9ZB",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1dwnjlNt0uLlgCzuSsoQK1zbN19Z96zcj",
+      "Description": "Half Moon Island in Antarctica is a remote paradise with dramatic icy landscapes, diverse wildlife, and the chance to see seals, seabirds, and penguins in their natural habitat."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Hyeopjae Beach",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1RpC-ekF6x8SA3B18pSWaHp6GXWBVoq7t",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1avAb580uIVDx1VACkGyWiM-j2PoPdVIW",
+      "Description": "Hyeopjae Beach in Jeju Island is a stunning coastal getaway with soft white sand, clear blue waters, and a breathtaking view of Biyangdo Island, perfect for relaxation and photography."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Maria Island National Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=15dZSufVFQX1Zmpm0D9pkSvaEXBTnFnEN",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1rg3-3AnrNhx4kMEtQDv63hAoI9Mch3wW",
+      "Description": "Maria Island National Park in Tasmania is a nature lover’s dream, offering pristine beaches, rugged cliffs, and wildlife encounters with wombats and kangaroos in an unspoiled setting."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Playa Grandi",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1GL7xLJd5P3E9st95n_2lULYNfrzlk8NO",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1zBfuHT4uNyxyeJcG19DCI6y6r8C1T_m7",
+      "Description": "Playa Grandi in Curaçao is a Caribbean gem known for its crystal-clear waters, golden sand, and an unforgettable experience of swimming alongside majestic sea turtles."
+    },
+    {
+      "Category": "Beaches",
+      "Place_Name": "Prion Island",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1ZXbqBiUD5sWbWKRWniKA4QcfY7nNhMTC",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=14WpQ9WG91-vfCqKNjh4060qd5Jmx9DV0",
+      "Description": "Prion Island in South Georgia is a remote wildlife sanctuary, home to rare seabirds and the majestic wandering albatross, offering an untouched and breathtaking landscape."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Acropolis Museum",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1TXZ5MmaPgecBzguCkOmdpy96cgk27t63",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1aqUKy11i1cTgQHnOoY_pYNWhi6zcKg8R",
+      "Description": "The Acropolis Museum in Athens houses ancient Greek artifacts, sculptures, and relics from the Acropolis, offering a fascinating insight into classical history with stunning views of the Parthenon."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Camera Deputatilor",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1Dj4qm68N5Tf-oMteTA-gI8yVG6wbjSaP",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1qgzjmiOSk0niROlEXgC05rMd3N9UkuUw",
+      "Description": "Camera Deputatilor, part of Romania’s Palace of Parliament, showcases historic exhibits, political artifacts, and grand architecture, reflecting the nation’s legislative and cultural heritage."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Cesky Krumlo Castle",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=12KaHoP7NfdXo4hFzdinwXqJ2jBZaZsGl",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=19lW_Eeq8AL0D_id5VE-Zcb8l2ngqvTQc",
+      "Description": "Český Krumlov Castle in the Czech Republic is a UNESCO-listed site, featuring stunning Renaissance and Baroque architecture, art collections, and panoramic views of the picturesque medieval town."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Gyeonggi Museum of Art",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=15f_0QEuiTb04NYUpj0xKIaO5flOlMccj",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1NB5MnbodKGEbjBRSz4Qy8eRwbuWWDASb",
+      "Description": "The Gyeonggi Museum of Art in South Korea presents contemporary and traditional Korean artworks, fostering cultural exchange through exhibitions, installations, and educational programs."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Kysucka galeria v Oscandnici",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1noz0Gavzszl3w-9MhuMES20nBnpu7qJS",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1vS_Oo79F9v9ppqS2zFd-Wq9WBKQOQQ2w",
+      "Description": "Located in Slovakia, Kysucká Galéria v Oščadnici is an artistic hub showcasing modern Slovak art, sculptures, and regional works in a beautifully preserved historic mansion."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Mineapolis Institute of Arts",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1nVDl-WACo8t8avvWz4rDTMfFUGksCy5F",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1X_FgR9DjW0X2jhcECCzckWy-U9xfGBjo",
+      "Description": "The Minneapolis Institute of Arts features over 90,000 artworks from global cultures, including European masters, Asian art, and contemporary pieces, making it a must-visit for art lovers."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "MOCA Bangkok Thai Art Museum",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1PMuy99w3k7xgiUUmfZMD0wGYYMVa--LZ",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1CVOuFMXQBh590Qn3Ge0CiLjsdHzfBR2k",
+      "Description": "MOCA Bangkok is a contemporary art museum celebrating Thai creativity, with striking modern artworks, sculptures, and exhibits that highlight Thailand’s evolving artistic landscape."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Museo de Arte Contemporáneo de Bogotá",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1yQPKmrtaFZ4vCHLpA4CuVkp6nE2QJl2s",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1pNsN0hhW0EN0IaZ3Z_1Sf91v2fh6bo5l",
+      "Description": "This Colombian museum showcases vibrant contemporary Latin American art, featuring paintings, sculptures, and multimedia exhibits that reflect modern social and cultural themes."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Museo Nacional de Antropología",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1lbCwafeYWzswYw2cH_xOBg3_Rbj0zxVq",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1lbv0yqNAfO3n5s76wv3830jWpzhzuTUi",
+      "Description": "Mexico City’s Museo Nacional de Antropología houses an extensive collection of pre-Columbian artifacts, including the famous Aztec Sun Stone and Mayan relics, preserving Mexico’s rich history."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Museum of Islamic Art Doha",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1KXR3vwRIRETTWknEn5m0FXL1vkEl_nOM",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1y-djXqkqa7lACBYNUhCWyV0DDERCoKY9",
+      "Description": "A masterpiece of architecture, the Museum of Islamic Art in Doha holds rare Islamic artifacts, intricate calligraphy, ceramics, and textiles spanning centuries of Islamic civilization."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Museum of the History of Polish Jews",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1BbHSBC7wGtGfynvwb7lcBHublITq_qgE",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1kXIUICaX6tZk2cSZhM2vQr5eFrcQLBdB",
+      "Description": "Located in Warsaw, this museum tells the 1,000-year history of Polish Jews through immersive exhibits, personal stories, and historical artifacts, preserving a rich cultural legacy."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "National Building Museum",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1JNpfk8DfJaY-tF9s9n8VTgrUbrYxY6HI",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1fLlAd1FKB39lB6FpuQXaQWDKUvbOCPIc",
+      "Description": "The National Building Museum in Washington, D.C., explores architecture, urban planning, and design through interactive exhibits, making it a fascinating space for history and architecture lovers."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "National Children's Museum",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1bxC_f5VnuGsvNB5SofsQ2FxQ8dzX2I8r",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1lOO_JAH4fQzmUe8mtekyUryfR9LkxHJV",
+      "Description": "The National Children's Museum blends play and learning with interactive exhibits on science, art, and innovation, inspiring young minds to explore creativity and discovery."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "National Museum Costa Rica",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1XygLtn9mF9bUMZUkHt0XwxoHjsd5bbBL",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1HSQ_DKkBDnFwU-pSDQiJmdXHj3QwwDxR",
+      "Description": "This museum in San José preserves Costa Rica’s history, from pre-Columbian artifacts to colonial heritage, housed in a historic fortress with stunning exhibits and lush gardens."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "National Gallery of Australia",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1sUb1A6csUzEH9YnHCvXtE9p0lxIC5GJu",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=14i0NTvgxM9cPuhD_piuB2DiQySTzw70y",
+      "Description": "The National Gallery of Australia in Canberra features an extensive collection of Australian, Indigenous, and international art, including iconic works by renowned artists."
+    },
+    {
+      "Category": "Art Gallery",
+      "Place_Name": "Tatranská Galéria Poprad",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1Fz2uXeDTYP0OM0uMSwVRmt_WZObVERAr",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1a7tHjJpgU7Sai0QeVbgCZVojqI9GMSu2",
+      "Description": "Tatranská Galéria Poprad in Slovakia is a cultural treasure trove showcasing contemporary Slovak art, photography, and sculptures in a historic power plant-turned-gallery."
+    },
+    {
+      "Category": "Highest Peaks",
+      "Place_Name": "Aconcagua Camp",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1YLDhxqynhW-Ab_y56XCZ41IbjqKNcS4x",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1rxK-2Dg-U4_zEqi187gQ1MO_i1YOtUO8",
+      "Description": "Aconcagua Camp serves as a key stop for climbers ascending Aconcagua, the highest peak in South America, offering breathtaking views, rugged terrain, and extreme weather conditions."
+    },
+    {
+      "Category": "Highest Peaks",
+      "Place_Name": "Aconcagua Summit",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1lPraAux9zTA-cE8HTK0sW4SLt-g-D1QQ",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=11D60HEbDoaUwm7_J1pzUbphHxkXzj1f9",
+      "Description": "Aconcagua Summit stands at 6,961 meters, making it the tallest mountain outside of Asia, providing climbers with a challenging ascent and rewarding panoramic Andean vistas."
+    },
+    {
+      "Category": "Highest Peaks",
+      "Place_Name": "Elbrus - Barrel Hut",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1KeOqojY9q1zvQFlE3Me2GvuPhciMPlLR",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1DSqBD6Y-HVF8TxhoXHGgUq3VBfDOdgFG",
+      "Description": "Elbrus - Barrel Hut is a famous base for mountaineers tackling Mount Elbrus, offering unique cylindrical shelters, stunning snowy landscapes, and an essential acclimatization point."
+    },
+    {
+      "Category": "Highest Peaks",
+      "Place_Name": "Elbrus - Diesel Hut",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1CokFOX3v1welYHOmn6SY3fRNKkiAFD1L",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1nu63vBZMIHQ9zb8HtSFteBf-V02UyIT2",
+      "Description": "Elbrus - Diesel Hut is a critical high-altitude refuge for climbers on Mount Elbrus, providing shelter from extreme conditions and breathtaking views of the Caucasus Mountains."
+    },
+    {
+      "Category": "Highest Peaks",
+      "Place_Name": "Everest Base Camp",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1PciJOuMihK77NGXUKrv4uwn5blh47XzB",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1WhA2LfienxwXN8G9n8qpqx3zu52zjjeW",
+      "Description": "Everest Base Camp is the gateway to the world's highest peak, Mount Everest, attracting trekkers and climbers with its breathtaking Himalayan scenery and challenging terrain."
+    },
+    {
+      "Category": "Highest Peaks",
+      "Place_Name": "Everest - Kala Patthar",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=19GfmOMVysp5pxF00otyJPBvvBuxLOBYR",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1byCyUo7LXSXjkOsAfeCcg4rFlPVrtoSS",
+      "Description": "Everest - Kala Patthar offers one of the best viewpoints of Mount Everest, providing climbers and trekkers with a stunning panoramic view of the world's highest peak and glaciers."
+    },
+    {
+      "Category": "Highest Peaks",
+      "Place_Name": "Giant Sand Dunes",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=11FofTG_Z2x6Ra_zFZZZ_OexkEAqHc_kR",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1k5AjpWN5B2qaT40Nw-yNR1stMOgKNKES",
+      "Description": "Giant Sand Dunes is a stunning natural wonder, featuring towering dunes that shift with the wind, offering thrilling sandboarding opportunities and breathtaking desert landscapes."
+    },
+    {
+      "Category": "Highest Peaks",
+      "Place_Name": "Mont Blanc",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1AqaaiGAsRPfGfws_ON_Os3Q0kj51VBPy",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1VHMNNNuklCnS1fEEHFkQRAKzQI_eCIhe",
+      "Description": "Mont Blanc, the highest peak in Western Europe, is renowned for its spectacular alpine scenery, extreme mountaineering challenges, and picturesque glaciers that attract adventurers."
+    },
+    {
+      "Category": "Highest Peaks",
+      "Place_Name": "Torres del Paine Glacier",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=170hneCZNGTM571Jo1Dn0QefIRZ-8mUkW",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1bb1wNEeIou5EAlluCQXJxo2z8sSSdNzd",
+      "Description": "Torres del Paine Glacier is a breathtaking part of Chilean Patagonia, featuring massive ice formations, turquoise waters, and awe-inspiring trekking routes for nature lovers."
+    },
+    {
+      "Category": "Highest Peaks",
+      "Place_Name": "Waimea Canyon",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1iMfwvyR7M6iPCVbhkktJZhN7z9FO1jcM",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=13StEtIBHZEnM7SP_UjfLTdvisgFeGMru",
+      "Description": "Waimea Canyon, known as the \"Grand Canyon of the Pacific,\" is a stunning Hawaiian landmark, featuring vibrant cliffs, deep gorges, and panoramic hiking trails with lush scenery."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Castle Rock State Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=17n6DnEdFesz7tNPmdYxww5HWgxvG4swR",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1NazvlQQQKjFs8NGbxd6lof60ma73_mRo",
+      "Description": "Castle Rock State Park, nestled in California’s Santa Cruz Mountains, offers rugged sandstone formations, scenic hiking trails, and breathtaking panoramic views of the surrounding landscape."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Christoffel Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1B9Cs_gL76ul8ICGBNyYDPeqmWuRwCcyR",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1XolJSizTcieYHG3tO3OfnIXXkECdUGLc",
+      "Description": "Christoffel Park is the largest national park in Curaçao, home to diverse wildlife, historic sites, and scenic hiking trails leading to stunning island views."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Detroit Zoological Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1ObUVdgJwllcU-rqYyR3pSQZRTViAq7To",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=148yLgc5N-qFRz12yexhEjfFZ2ocG980W",
+      "Description": "Detroit Zoological Park is a family-friendly zoo in Michigan featuring over 2,000 animals, immersive exhibits, and conservation efforts, providing an engaging wildlife experience for visitors."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Dove Lake Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=116uSZ01yMkIUq3y5xyVTgiYV1mkXie_w",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1DGsVUBN9_hO37nA7Xx_9VaCISe3YOGHU",
+      "Description": "Dove Lake Park is a picturesque lake in Tasmania’s Cradle Mountain region, offering stunning alpine scenery, peaceful hiking trails, and reflections of rugged peaks in its crystal-clear waters."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Golden Gate Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1eaM8i3MxgiJSh_V_Yh1tpQCvDAzteOIi",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1H7OuBbcJlRWJClQqAp99RXEiKSYnv6PO",
+      "Description": "Golden Gate Park is a lush urban retreat in San Francisco, featuring botanical gardens, museums, lakes, and walking trails, making it a perfect escape from city life."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Ibirapuera Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1htXEDtM4BnTISRyo9Xu5WZ-3OgUwHEn8",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1WwWUnVZAsAYPsXocS5ovcvlWDcLVg7YB",
+      "Description": "Ibirapuera Park, São Paulo’s largest park, offers green spaces, museums, cultural centers, and a vibrant atmosphere where locals enjoy jogging, biking, and leisure activities."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Iguazu National Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1COn7oQxlwvQqgvQAT0NHxIpYJdjBXbCy",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1dPj2EkP9-VRPvBr5gisoiPyB4RIMhp_w",
+      "Description": "Iguazu National Park is home to the world-famous Iguazu Falls. This UNESCO-listed park boasts breathtaking waterfalls, lush rainforests, and diverse wildlife, including toucans and jaguars."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Jardin du Luxembourg",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1pc-J0m59cQeGFBJ-Ois8ybtz0-5JBJRB",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1qcmJM1pG75XAODs7aA5IwMQCnl3a8_MZ",
+      "Description": "Jardin du Luxembourg is a beautiful Parisian park featuring elegant fountains, lush gardens, sculptures, and tree-lined promenades, offering a serene escape in the heart of the city."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Kakadu National Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1lraas0XsDsl8paZ53sxsGLNCugqUHNvV",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1tz-6MKAJOWVR1AObAIcnj6HlxjLOmWNO",
+      "Description": "Kakadu National Park, a UNESCO World Heritage site in Australia, is rich in Aboriginal culture, stunning waterfalls, diverse wildlife, and ancient rock art dating back thousands of years."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Magic Kingdom Theme Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1gX8Wdv63hoO1OZJMc1WXazTTAdHhzDWz",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=11Qcmr5a4xiGOEeNhDAOMll91Beky5zHU",
+      "Description": "Magic Kingdom Theme Park is the most iconic Disney park, featuring Cinderella’s Castle, thrilling rides, character parades, and magical experiences that bring childhood dreams to life."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Mount Ainslie Nature Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1uUjeVVfTtvQ3ef-KFP78A-bH6_ndiBdD",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=127qyLtLwoWhKS-QBU8N-U4ykhRpAxjae",
+      "Description": "Mount Ainslie Nature Park is a popular nature reserve in Canberra, offering panoramic city views, scenic bushwalking trails, and an abundance of native Australian flora and fauna."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Nordvest-Spitsbergen National Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1TlSt0OEAjtic9mjK9mid1hxBG76_hck4",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1RkJNPa84NeKogzGACZHBWrtW6Bubvp69",
+      "Description": "Nordvest-Spitsbergen National Park is a remote Arctic wonderland in Norway, featuring glaciers, polar bears, seabird colonies, and dramatic landscapes of icy fjords and snow-capped peaks."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Parque Centenario",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1V9RglXfTj-kdWhrfxesWxuezzjmD3cRp",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1vTcd1PB2WqMmERgRIYsRE5oPdBQwFCOi",
+      "Description": "Parque Centenario is a lively park in Buenos Aires, Argentina, featuring a central lake, walking trails, playgrounds, and cultural events, making it a favorite spot for locals."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Vicente Pérez Rosales National Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=16bSje2AVDKpO-5EuW4jJ5vDHeeGIQs4L",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1Rur05AP7cFdrLF392smlwEAe9OeDWCh7",
+      "Description": "Vicente Pérez Rosales National Park, Chile’s oldest national park, offers breathtaking volcanic landscapes, pristine lakes, lush forests, and adventure activities like hiking and kayaking."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Waikato River Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1c_a8iK7iqHOVs9NAYar8JbIH1qkjrfUH",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1ABkCX7uRLpUXA73PrVAnuF1D01J4Goly",
+      "Description": "Waikato River Park is a scenic riverside retreat in New Zealand, featuring peaceful walking and biking trails along the Waikato River, with stunning views and abundant birdlife."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "Wattarka National Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=112SFAIm2ngQ9gw8NfF453Q6PXa6ml5oo",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=18UEprX4X4j2Wf57CHaGdvZQGEIt_aXs1",
+      "Description": "Wattarka National Park is home to the famous Kings Canyon. This Australian park boasts towering sandstone walls, lush oasis valleys, and stunning sunrise and sunset vistas."
+    },
+    {
+      "Category": "Parks",
+      "Place_Name": "York Redoubt National Historic Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1g3TJ0jOm5270t87PMvccN9fwq75hSJ0d",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1D1YOQ2VqgAnqgmhOcet-hi1rCdJnXI_2",
+      "Description": "York Redoubt National Historic Park is a historic military fort in Canada, offering scenic ocean views, hiking trails, and preserved 18th-century fortifications with tunnels and cannons."
+    },
+    {
+      "Category": "Shopping Malls",
+      "Place_Name": "Centro Commerciale",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1v92BtNyFQAnk-r4AtR7_RdBgYyqsP09T",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1gEM8w3w2OqSMrevxYvwW4c523qVcJ6QN",
+      "Description": "Centro Commerciale, located in Italy, is a popular shopping destination offering a variety of retail stores, dining options, and entertainment facilities, making it a vibrant shopping hub."
+    },
+    {
+      "Category": "Shopping Malls",
+      "Place_Name": "DiverCity Tokyo Plaza",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1pLnJvhqDB9HzveGDhJIs-vCrSMX5dwWC",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1KXCD5FNVG3k_0Zbb2vVKVAupa6GvI-EU",
+      "Description": "DiverCity Tokyo Plaza is a famous shopping mall in Tokyo, featuring a life-sized Gundam statue, a diverse range of fashion stores, and delicious Japanese cuisine spots."
+    },
+    {
+      "Category": "Shopping Malls",
+      "Place_Name": "Mall of Scandinavia",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=14oce9HGYJ1TiAchKnRKe7UywUkyEKEyB",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=126_mEfPoymzrE1b6BIv8hZb4-x8qYa-P",
+      "Description": "Mall of Scandinavia, located in Stockholm, Sweden, is the country’s largest shopping mall, offering luxury brands, fine dining, and entertainment, including an IMAX cinema."
+    },
+    {
+      "Category": "Shopping Malls",
+      "Place_Name": "Omotesando Hills",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1GKTG1h2lA6D7VbxnZxMsIXNGpKMUbizE",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1gIc8n96gIRglASAfIIddcF_8-a2j68q9",
+      "Description": "Omotesando Hills is a stylish shopping complex in Tokyo, known for its luxury boutiques, modern architecture, and premium shopping experience along the Omotesando district."
+    },
+    {
+      "Category": "Shopping Malls",
+      "Place_Name": "Sennichimae Doguyasuji",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=11meAppxfDyDF3GkyAK-V3IvHh2KCR5UQ",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1mPTx7l8H1nm_MUZVc75N2I5W8O6qiTDi",
+      "Description": "Sennichimae Doguyasuji is a unique shopping street in Osaka, specializing in kitchenware, traditional knives, and culinary tools, making it a paradise for professional chefs."
+    },
+    {
+      "Category": "Shopping Malls",
+      "Place_Name": "The Plaza Shopping",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=14qmWJvy6Kuj47UgtEC2tM0-nfMgxnnya",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=14qmWJvy6Kuj47UgtEC2tM0-nfMgxnnya",
+      "Description": "The Plaza Shopping, located in Buenos Aires, Argentina, is a well-known retail destination with a wide selection of fashion brands, accessories, and lifestyle products."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Burj Khalifa",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1HHMAY_aXP1yDz7YTqyfw6t-OeHoTVtV-",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1gXMUYiK2HbVawXQlktgJZokl9awXz2zX",
+      "Description": "The Burj Khalifa in Dubai is the world's tallest building, standing at 828 meters. This architectural marvel offers breathtaking views from its observation decks and is a major tourist attraction."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Central Park, New York",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1axCIaCN2reD4lvAgoBWVO-_uRV85EZRJ",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1rzZ4uQTvgMImvnkrG2I3orti17sY4hty",
+      "Description": "Central Park, New York is a massive green oasis in the heart of Manhattan, featuring scenic landscapes, lakes, walking trails, and cultural landmarks, attracting millions of visitors yearly."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Christ the Redeemer",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=16GTXzP4zrr1Qh64SS9t338GRpLtBA7_q",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=18zRGb94mAvcRro99iZPHF00DRsfucCP4",
+      "Description": "Christ the Redeemer is a colossal statue in Rio de Janeiro, Brazil, standing atop Mount Corcovado. This iconic landmark symbolizes peace and offers panoramic views of the city."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Colosseum",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1tburdZnuzmWznkD3RDtgT46kCivmQoW2",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1gyeOe5xqU0OPcaSSRmE3FLZXMH9c4OqD",
+      "Description": "The Colosseum in Rome, Italy, is an ancient amphitheater that once hosted gladiator battles. Built in AD 80, it remains a symbol of Roman engineering and historical significance."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Copenhagen Botanical Garden",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1qj1f8F5IYbty8xkq0yPqw3Sbr_WupoS9",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1Nj6w-7ieJuPiea_9EIP5jLenCSERDZao",
+      "Description": "The Copenhagen Botanical Garden in Denmark is a beautiful 10-hectare space featuring rare plant species, scenic glasshouses, and a tranquil setting for nature lovers and researchers."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Eiffel Tower",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1SC7BEUh8IgYB1fYVo_t2z6On5r9WaTEq",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1-fF3hwoEBM-PSwRWCE1BsgmCpfsEJ_lt",
+      "Description": "The Eiffel Tower in Paris, France, is a global icon of architecture and tourism. Standing at 330 meters, it offers spectacular views and attracts millions of visitors every year."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Golden Gate Bridge",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1aAp6Y6yrzoifF66ypfiuTrNJ4tbO0Z9z",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1trYH7qo_1rBedSGPSgo8V_9e_PjpWgxN",
+      "Description": "The Golden Gate Bridge in San Francisco is an engineering masterpiece, stretching 2.7 km. Its striking red color and breathtaking bay views make it one of the world’s most photographed bridges."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Grona Lund, Sweden",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1RlOu3GDxfw_yPqGy1ALm56NzFx6RpPjE",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1ZOh85J6vbYeGKEFEP_gFSYn7hvNnIj6G",
+      "Description": "Grona Lund, Sweden is a historic amusement park in Stockholm, offering thrilling rides, concerts, and entertainment. It has been a favorite family destination since 1883."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Høvringen Mountain, Norway",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1b01mGvrwENqRRJiotV5ZyjlfH0_v3fgZ",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1d_SQsTRRhOpcm5oruuROcED1j95Fw7Vw",
+      "Description": "Høvringen Mountain, Norway is a breathtaking natural retreat in the Rondane National Park. It is a popular destination for hiking, skiing, and enjoying scenic landscapes."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Hyde Park, London",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1-B0CubVVyNcI4NcvrkxqrjDJy5Ib7uFG",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1FRjVMG4ICKVyZ4XYYbOSDd-H_cgwlcY_",
+      "Description": "Hyde Park, London is one of the largest and most famous parks in the city, offering vast green spaces, the Serpentine Lake, and Speaker’s Corner, a hub for public discourse."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "London Eye",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1zCrvJvhm6pJ8NdoPpY1U9Qa7GYpHLcJM",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1FTcos1UCVmvO69JNik0g8OgWc0IH0e8A",
+      "Description": "The London Eye is a giant Ferris wheel on the South Bank of the River Thames, offering panoramic views of the London skyline and major landmarks from its glass capsules."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Machu Picchu",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1CgzMgkFgpQdUQNtLt38VDRihOLWDX_cK",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1L2s4uQ1bF6e11roCQ2VzacyuZtIQtfK6",
+      "Description": "Machu Picchu in Peru is an ancient Incan city set high in the Andes Mountains. Its breathtaking ruins and historical significance make it a UNESCO World Heritage Site and a global attraction."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Magic Kingdom Theme Park",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1Yr5e5wKdsOg4rzXBjK8T_f7Er_QCql0D",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1evqkTyguQyZHF15beHc96UUFEgCQdNua",
+      "Description": "Magic Kingdom Theme Park in Orlando, Florida, is a premier Disney destination, featuring Cinderella’s Castle, thrilling rides, and enchanting experiences for visitors of all ages."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Olympic Stadium, Berlin",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1kYtix1mYEsX9O0pUehyArJCaMror3T_7",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=17RwWCHyco8rFfrMAb3DbTsdm_ztdj5R8",
+      "Description": "The Olympic Stadium, Berlin is a historic sports venue, originally built for the 1936 Olympics. Today, it hosts major sporting events, concerts, and cultural celebrations."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Palace of Versailles",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1UFO8gIEqVW1lnTLGsqCg8UnckqT96d5f",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1n_UACsfqb-jsjQZTKtJeKUMdIxABjXQ2",
+      "Description": "The Palace of Versailles in France is a masterpiece of royal architecture, famous for its stunning gardens, lavish interiors, and historical significance as a former royal residence."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Pergamon Museum, Berlin",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1_JtaBUOCp3Ipe6D5aswvCO0brCLReunq",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1939CyXgwxGJSVosVB8sQ7E_2g9ozut3t",
+      "Description": "The Pergamon Museum, Berlin is renowned for its impressive archaeological collections, including the Ishtar Gate and Pergamon Altar, attracting history and art enthusiasts worldwide."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Petra",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=18kzhd-HzLTnFDL3DD7B96g-39i0HI5Fm",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1tqsRjfZ4oTSx-ChepFZ3UxIBZqs5G67x",
+      "Description": "Petra, known as the Rose City of Jordan, is an ancient archaeological wonder carved into sandstone cliffs. It is famous for its rock-cut architecture and rich historical significance."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Presidential Palace, Laos",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1cawxbsfUtjWM3hq8_yml9uvgohZPa7gz",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=18RYN-T-V8UX1JBLA_ihB3KRDskLHDMje",
+      "Description": "The Presidential Palace, Laos is an elegant structure in Vientiane, serving as the official residence of the president. It showcases French colonial architecture and national importance."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Pyramid of Giza",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1VSamG3hipVI0xo45A8I6wDENcTGsGLUe",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1tSQENf0pDeDGlrrn6HtzyeQFyhNjR1fm",
+      "Description": "The Pyramid of Giza, Egypt’s most iconic monument, stands as the last surviving wonder of the ancient world. Built for Pharaoh Khufu, it remains a mystery of engineering excellence."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Statue of Liberty",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1ExBgPxtcGpDm_CizM2A65G_lEqPPTsGD",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1nsYABHJ3anbZH65rqXzhK1DYW5QFsxGO",
+      "Description": "The Statue of Liberty in New York City is a symbol of freedom and democracy. Gifted by France in 1886, this colossal statue welcomes visitors to the United States."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Sydney Opera House",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1YMy86vvYzYZPZLCvotgT8AaUePCBA8Cb",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1Sz1XVQjOQZJF38W2HZ4XJQGgjd9952YZ",
+      "Description": "The Sydney Opera House in Australia is an architectural marvel with its distinctive sail-like design. It is a UNESCO World Heritage Site and a hub for cultural performances."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Taj Mahal",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1btDwjhn-qKYDbfZR7kWUiGjUimGDK9xD",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=16NH87JGdPwkzaNzriTTDbbVpf0-Gewbn",
+      "Description": "The Taj Mahal in India is an exquisite white marble mausoleum built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is a symbol of love and a UNESCO World Heritage Site."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "The Louvre Museum",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=19ViKyws4qOLpoiROuxSLHwlkwVQtHWb_",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=123nKzyEWXSy099plhFRmiDbPYrEKcHFV",
+      "Description": "The Louvre Museum in Paris is the world's largest art museum, housing the Mona Lisa and countless other masterpieces. Its glass pyramid entrance is an iconic landmark."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "The Old Town, Aarhus",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1GQ6UQMQGa2fX6k6wE9WBD7TxNGAzp4SU",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1KBRoDACm8ywbeS7rimqBAfBBJdBk-S_V",
+      "Description": "The Old Town, Aarhus, in Denmark, is an open-air museum showcasing historic Danish architecture, providing visitors with an immersive experience of the country’s past."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "The White House",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1eF8nB6Oc5FCOaqOGI0c8L77OsnPWXiwp",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=12WmDzdfXkzVVojVJgGfXYMJPWnOkNjxm",
+      "Description": "The White House in Washington, D.C., is the official residence and workplace of the U.S. president. It is an enduring symbol of American leadership and democracy."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Times Square, New York",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1at0WGHvVlv6bcd81sGmTFPv9IvyIGrT_",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1Yaw2-NCB7LF15Yh6yRlPE---T_9dydmL",
+      "Description": "Times Square, New York is a vibrant hub of entertainment, featuring dazzling billboards, Broadway theaters, and an electrifying atmosphere, making it a must-visit destination."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Tokyo Tower",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1yr_FdwY4nmhP_twG3CfKIPUKh1s2cJyQ",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1-v9QO_x4WXPt6psUWEQr3Owt_jtf6GJn",
+      "Description": "The Tokyo Tower in Japan is an iconic red-and-white structure inspired by the Eiffel Tower. It serves as a communications tower and offers stunning panoramic city views."
+    },
+    {
+      "Category": "Tourist Attractions",
+      "Place_Name": "Universal Studios Hollywood",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1RZE7zJ3IjtcF5Z1UQTzy_IQ1h6Ooe0NL",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1kBQEsD4wtLr9JzSWRGI3Lfo6f4cjvGM7",
+      "Description": "Universal Studios Hollywood in Los Angeles is a world-famous theme park and film studio, offering thrilling rides, behind-the-scenes tours, and immersive entertainment experiences."
+    },
+    {
+      "Category": "Underwater Museum",
+      "Place_Name": "Herods Harbor, Israel",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=19kExsK96jTuXeL-SynemcxVItXl8NvMj",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=12F_s66m--IZj0_dQfQSih0ThhFneGpye",
+      "Description": "Herods Harbor, Israel, is a historic port with stunning coastal views and ancient ruins. It was once a grand harbor built by King Herod the Great."
+    },
+    {
+      "Category": "Underwater Museum",
+      "Place_Name": "Shipwreck Trail",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=1hty0-OZ52T33O9Ins__OdVL4suMFLt9g",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1iE27DHzhc9r70OjC10UcW0cWVNdM9zcv",
+      "Description": "Shipwreck Trail is a fascinating underwater site featuring sunken vessels, marine life, and diving opportunities for history and adventure enthusiasts."
+    },
+    {
+      "Category": "Underwater Museum",
+      "Place_Name": "Side Underwater Museum",
+      "Realistic_Img": "https://drive.google.com/uc?export=download&id=19AKdIrUfNJxFfeLS4lPuE3pshVC2hkUe",
+      "AI_Img": "https://drive.google.com/uc?export=download&id=1t1nfCYl1hmY41j7cI2NuLNSKW9qAXOZX",
+      "Description": "Side Underwater Museum offers a unique diving experience with submerged sculptures and artifacts, showcasing the rich cultural history of the region."
+    }
+  ]
 }
