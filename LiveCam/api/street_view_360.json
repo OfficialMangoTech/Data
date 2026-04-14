@@ -12,9 +12,9 @@
   "data": [
     {
       "Category": "Airports",
-      "Place_Name": "Agadir Al Massira Airport.webp",
+      "Place_Name": "Agadir Al Massira Airport",
       "Realistic_Img": "Agadir_Al_Massira_Airport_50.webp",
-      "AI_Img": "Agadir Al Massira Airport",
+      "AI_Img": "Agadir Al Massira Airport.webp",
       "Description": "Agadir Al Massira Airport (AGA) is an international airport 20 km from Agadir, Morocco, serving domestic and international flights with modern facilities."
     },
     {
